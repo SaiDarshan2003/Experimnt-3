@@ -18,8 +18,10 @@ To create a Web-Layout using FLEXBOX.
 5.Edit App.js and enter the HTML code in the return and render.
 
 ## Output:
+![244945117-9fb65a26-1f9d-440d-b1bb-cbd8fabea004](https://github.com/SaiDarshan2003/Experimnt-3/assets/94692595/f315e7fc-e360-4b55-9224-3d2afe6a6e7a)
 
-![image](https://github.com/SaiDarshan2003/Experimnt-3/assets/94692595/9fb65a26-1f9d-440d-b1bb-cbd8fabea004)
+
+
 
 ## Result:
 Therefore we have succesfully created a Web-Layout using FLEXBOX.
